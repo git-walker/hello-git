@@ -6,7 +6,9 @@
 
 hi,git!
 >
->talk is cheap,show me the code.
+>Talk is cheap,show me the code. 
+>                       ——linus
 >
 I want to be a coder!
+
 **I will**
